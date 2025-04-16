@@ -1,0 +1,1 @@
+O projeto consiste em evolução do aprendizado nas ferramenas de IA
