@@ -1,0 +1,7 @@
+pip freeze < comando para trazer a biblioteca e versao >
+
+criar uma lista das bibliotecas locais para instalar
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
